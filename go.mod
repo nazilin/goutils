@@ -1,4 +1,4 @@
-module nazilin/goutils
+module github.com/nazilin/goutils
 
 go 1.13
 

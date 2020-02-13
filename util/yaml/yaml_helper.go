@@ -1,4 +1,4 @@
-package yamlhelper
+package yaml
 
 import (
 	"fmt"
